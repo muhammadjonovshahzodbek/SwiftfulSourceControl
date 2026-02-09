@@ -14,7 +14,7 @@ struct ContentView: View {
                 .foregroundStyle(Color.red)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hi, I'm a SwiftUI View!")
+            Text("Hi, everyone")
         }
         .padding()
         .padding()
